@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103381863391",
+    "firebase_url": "https://civic-abode-129417.firebaseio.com",
+    "project_id": "civic-abode-129417",
+    "storage_bucket": "civic-abode-129417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103381863391:android:09ff4320b37da4fb",
+        "android_client_info": {
+          "package_name": "com.baudiabatash.myfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103381863391-jffevmdkf03tu5rjnttcpqrf9v89sjas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baudiabatash.myfirestore",
+            "certificate_hash": "B49A38245A633F8B2BE2A8E5246BDF655118973C"
+          }
+        },
+        {
+          "client_id": "103381863391-doj7i8un91v5pj1g84k9u0v2nrmbb1h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7iG7Yvo4X4P2_N9_46KZ4ZrcN-UJayWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103381863391-doj7i8un91v5pj1g84k9u0v2nrmbb1h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
